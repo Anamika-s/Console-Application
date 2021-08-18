@@ -1,0 +1,16 @@
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.dll
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.xml
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csprojAssemblyReference.cache
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.CopyComplete
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.pdb
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.Migrations.InitialCreate.resources
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.csproj.GenerateResource.cache
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.Migrations.Timings.resources
+C:\Users\Anamika\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\ConsoleApp7.Migrations.Fees.resources
